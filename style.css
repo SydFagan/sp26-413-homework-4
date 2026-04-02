@@ -1,0 +1,25 @@
+.sf-reading-time {
+    padding: 12px;
+    background: #f4f4f4;
+    border-left: 4px solid #222;
+    margin-bottom: 20px;
+    font-size: 14px;
+    border-radius: 6px;
+}
+
+.sf-breaking-news {
+    background: #d90429;
+    color: #fff;
+    padding: 10px 14px;
+    font-weight: bold;
+    display: inline-block;
+    margin: 15px 0;
+    border-radius: 4px;
+}
+
+.sf-footer-message {
+    text-align: center;
+    font-size: 14px;
+    padding: 15px;
+    color: #777;
+}
